@@ -18,7 +18,7 @@ int main() {
 
         if (args.count > 1) {
             if ([args[1] isEqualToString:@"--version"]) {
-                puts("1.3.0");
+                puts("1.4.0");
                 return 0;
             }
 
